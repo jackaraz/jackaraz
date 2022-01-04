@@ -7,6 +7,6 @@ I'm a [Theoretical High Energy Physicist](https://inspirehep.net/authors/1599325
 When I'm not coding tho, I mostly bike, [take pictures](https://www.instagram.com/jackaraz/) and climb on stuff!
 
 **Here is some software that I'm part of:**
-- [MadAnalysis 5](http://madanalysis.irmp.ucl.ac.be)
-- [Elvet](https://gitlab.com/elvet/elvet)
+- [MadAnalysis 5](http://madanalysis.irmp.ucl.ac.be) - event analysis and recasting package
+- [Elvet](https://gitlab.com/elvet/elvet) - a neural network-based differential equation and variational problem solver
 - [research related software in GitLab](https://gitlab.com/jackaraz)
