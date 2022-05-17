@@ -8,5 +8,7 @@ When I'm not coding tho, I mostly bike, [take pictures](https://www.instagram.co
 
 **Here is some software that I'm part of:**
 - [MadAnalysis 5](http://madanalysis.irmp.ucl.ac.be) - event analysis and recasting package
+- [SModelS](https://github.com/SModelS) - A tool for interpreting simplified-models results from the LHC
+- [Rivet](https://gitlab.com/hepcedar/rivet) - Robust Independent Validation of Experiment and Theory
 - [Elvet](https://gitlab.com/elvet/elvet) - a neural network-based differential equation and variational problem solver
 - [research related software in GitLab](https://gitlab.com/jackaraz)
