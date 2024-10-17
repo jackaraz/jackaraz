@@ -2,10 +2,10 @@
 
 [![cv](https://img.shields.io/static/v1?style=plastic&label=CV&message=jackaraz.github.io&color=blue)](https://jackaraz.github.io)
 
-I'm a postdoc at [Jefferson Lab](https://www.jlab.org), interested in collider phenomenology, machine learning and quantum computing.
+I'm a postdoc at Stony Brook University, and I'm interested in collider phenomenology, machine learning, and quantum computing.
 You can find my papers on [Inspire-HEP](https://inspirehep.net/authors/1599325).
 
-When I'm not coding tho, I mostly bike, [take pictures](https://www.instagram.com/jackaraz/) and climb on stuff!
+When I'm not coding, though, I mostly [bike](www.whiskyandwheels.ca), [take pictures](https://www.instagram.com/jackaraz/), and climb on stuff!
 
 **Here is some software that I'm part of:**
 - [MadAnalysis 5](http://madanalysis.irmp.ucl.ac.be) - event analysis and recasting package
