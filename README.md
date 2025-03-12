@@ -2,7 +2,7 @@
 
 [![cv](https://img.shields.io/static/v1?style=plastic&label=CV&message=jackaraz.github.io&color=blue)](https://jackaraz.github.io)
 
-I'm a postdoc at Stony Brook University, and I'm interested in collider phenomenology, machine learning, and quantum computing.
+I'm a presidential fellow at City St George's, University of London, and I'm interested in collider phenomenology, machine learning, and quantum computing.
 You can find my papers on [Inspire-HEP](https://inspirehep.net/authors/1599325).
 
 When I'm not coding, though, I mostly [bike](www.whiskyandwheels.ca), [take pictures](https://www.instagram.com/jackaraz/), and climb on stuff!
